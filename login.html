@@ -1,0 +1,73 @@
+﻿<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="boostrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/login.css">
+
+    <title>Login</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+    <!--<script type="text/javascript">
+            var dat = {
+                login: $('#Email').val(),
+                senha: $('#Senha').val()
+            }
+            $('#formlogin').submit(function (e) {
+
+                $.ajax({
+                    type: "POST",
+                    url: "http://localhost:8081/api/login/acessar",
+                    data: JSON.stringify(dat),
+                    dataType: "json",
+                    contentType: "application/json",
+                    success: function () { },
+                    error: function () { },
+                });
+                e.preventDefault();
+            });
+            alert(dat);
+            $('#formlogin').submit();
+    </script>-->
+</head>
+
+<body style='background-color: #EBB56A'>
+    <br><br><br><br><br><br>
+    <div class="container" style='display: flex;  align-items: center; justify-content: center;'>
+        <div class="card" style='width:400px; height: 430px; margin-top: -40px; display: flex;  align-items: center; justify-content: center;'>
+            <div class="card-body">
+               <a href="home.html"> <img src="img/logo1.png" width="200" height="auto" alt="Sua melhor loja"></a>
+                <br><br>
+                <h5>
+                    <center><b> Olá, Bem Vindo ! </center></b>
+                </h5>
+			    <form id="formlogin" name="formlogin" method="POST" action="http://localhost:8081/api/login/acessar">
+                    <div class="form-group">
+                        <label for="Email">E-mail: </label>
+                        <input type="text" class="form-control" id="Email" placeholder="Insira seu e-mail" name="Login">
+                    </div>
+                    <div class="form-group">
+                        <label for="Senha">Senha: </label>
+                        <input type="password" class="form-control" id="Senha" placeholder="Insira sua senha" name="Senha">
+                        <small id="esqsenha" class="form-text text-right text-muted text-primary">Esqueci minha senha</small>
+                    </div>
+                    <div class="form-group form-check">   
+                    </div>
+                    <button type="submit" class="btn btn-warning btn-block"><b>Continuar</b></button>
+                    <br>
+                    <a href="cadusuario.html"> <small id="noconta" class="form-text text-center text-muted text-primary">Não tem conta? Cadastre-se</small></a>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/jquery-3.4.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="boostrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>

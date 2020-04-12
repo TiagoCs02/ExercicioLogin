@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\ProjetoAPI.deps.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\ProjetoAPI.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\bin\Debug\netcoreapp2.1\ProjetoAPI.pdb
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.dll
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.pdb
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Atividade 5\WebApplication1\obj\Debug\netcoreapp2.1\ProjetoAPI.csproj.CoreCompileInputs.cache
